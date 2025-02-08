@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://vaishnavipratha7.github.io/social-links-profile/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/responsive-social-links-profile-card-fQjusogZ77)
+- Live Site URL:(https://vaishnavipratha7.github.io/social-links-profile/))
 
 ## My process
 
