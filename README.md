@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](screenshot.png)
+
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/social-links-profile-main/index.html)
+- Solution URL:(http://127.0.0.1:5500/social-links-profile-main/index.html](https://vaishnavipratha7.github.io/social-links-profile/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
